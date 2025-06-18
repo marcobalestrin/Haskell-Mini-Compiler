@@ -1,0 +1,5 @@
+let p = (100, 200) in
+
+let a = fst(p) in
+let b = snd(p) in
+(b, a)
